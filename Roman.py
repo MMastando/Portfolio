@@ -1,8 +1,7 @@
 # Print user information
 print('Michael Mastando')
 print('mikemastando23@gmail.com')
-print('CSC115')
-print('Computer Science')
+
 
 # Start the exit function
 exit_program = False
