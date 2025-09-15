@@ -8,7 +8,7 @@ Hi, I'm Michael Mastando! I’m a Computer Science student at the University of 
 📚 Skills & Tools
 Languages: Java, Python
 Tools: Google Colab, Intellij, Eclipse, Pycharm, Google Analytics, Github, Jira, Excel
-Technical Skills: Computer Programming, Cybersecurity, Data Analysis
+Technical Skills: Sales, Business Development, Coding, Data Analysis
 
 🌐 Connect With Me
 LinkedIn: www.linkedin.com/in/michaelmastando
