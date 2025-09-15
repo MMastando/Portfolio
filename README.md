@@ -14,6 +14,3 @@ Technical Skills: Computer Programming, Cybersecurity, Data Analysis
 LinkedIn: www.linkedin.com/in/michaelmastando
 Email: msm399@miami.edu
 
-🎯 Goals
-Short-Term: Gain hands-on experience in software development and cybersecurity through internships and projects.
-Long-Term: Pursue a career in technology with a focus on innovative solutions, cybersecurity or fintech.
